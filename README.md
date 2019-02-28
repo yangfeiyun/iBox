@@ -64,3 +64,9 @@ Change to project directory and command line: mvn test
 2. Change to project directory and command line: mvn checkstyle:checkstyle / mvn findbugs:findbugs
 
 3. Reports are under target/test-classes (successful).
+
+# Reference
+
+https://docs.oracle.com/javase/tutorial/essential/io/notification.html
+
+https://github.com/csupomona-cs585/ibox-app
